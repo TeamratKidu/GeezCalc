@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EthiopianButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/ethiopian_button_background</item>
+        <item name="android:textColor">@color/ethiopian_gold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="EthiopianOperatorButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_green</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="EthiopianEqualsButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_red</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="EthiopianClearButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_red</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources> 

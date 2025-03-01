@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ethiopian_green_dark">#006627</color>
+    <color name="ethiopian_yellow_dark">#B59C00</color>
+    <color name="ethiopian_red_dark">#B32530</color>
+    <color name="ethiopian_gold_dark">#A17B18</color>
+    <color name="ethiopian_brown_dark">#5C2E0D</color>
+    <color name="ethiopian_beige_dark">#2C2925</color>
+    <color name="display_background_dark">#1C1C1C</color>
+    <color name="text_color_dark">#E6E6E6</color>
+</resources> 

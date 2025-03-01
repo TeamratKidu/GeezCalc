@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EthiopianButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/ethiopian_button_background_dark</item>
+        <item name="android:textColor">@color/ethiopian_gold_dark</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="EthiopianOperatorButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_green_dark</item>
+        <item name="android:textColor">@color/text_color_dark</item>
+    </style>
+
+    <style name="EthiopianEqualsButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_red_dark</item>
+        <item name="android:textColor">@color/text_color_dark</item>
+    </style>
+
+    <style name="EthiopianClearButtonStyle" parent="EthiopianButtonStyle">
+        <item name="android:backgroundTint">@color/ethiopian_red_dark</item>
+        <item name="android:textColor">@color/text_color_dark</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources> 
