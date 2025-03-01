@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalcGeez" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/ethiopian_beige</item>
+        <item name="textColor">@color/ethiopian_brown</item>
+        <item name="displayBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="Theme.CalcGeez" parent="Base.Theme.CalcGeez" />
+</resources>

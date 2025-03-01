@@ -15,9 +15,15 @@ captures/
 *.apk
 output.json
 
-# IntelliJ
+# IntelliJ/Android Studio IDE files
 *.iml
 .idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
@@ -31,3 +37,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# macOS junk
+.DS_Store
