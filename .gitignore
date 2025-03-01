@@ -39,4 +39,8 @@ google-services.json
 *.hprof
 
 # macOS junk
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> 35a81b69d5bc5d010f93b2abf546fe5d1395f251
